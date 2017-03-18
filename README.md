@@ -6,4 +6,4 @@ Created for the Coursera Algorithms course.
 * PercolationStats.java       -   Calculate the statistics with given trials
 * PercolationVisualizer.java  -   Visualize percolation on a site map
 
-> Backwash is not handled in this solution
+> NOTE: Backwash is not handled in this solution
