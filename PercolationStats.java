@@ -38,7 +38,6 @@ public class PercolationStats {
                 int x = StdRandom.uniform(1, this.gridinit + 1);
                 int y = StdRandom.uniform(1, this.gridinit + 1);
 
-                System.out.println(" "+x+" "+y);
 
                 if (!p.isOpen(x, y))
                 {
